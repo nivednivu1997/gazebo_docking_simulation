@@ -3,8 +3,9 @@ This repository contain gazebo simulation files and python codes required for a 
 
 Steps to run
 
-1.setup turtlebot simulation packages 
+1.setup turtlebot simulation packages and auto dock packages
 Refer : https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/
+https://github.com/osrf/autodock
 
 
 2.Run gazebo 
